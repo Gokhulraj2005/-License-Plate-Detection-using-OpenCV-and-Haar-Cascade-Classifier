@@ -1,1 +1,1 @@
-# -License-Plate-Detection-using-OpenCV-and-Haar-Cascade-Classifier
+# License-Plate-Detection-using-OpenCV-and-Haar-Cascade-Classifier
